@@ -32,3 +32,21 @@ dequeue(): O(1)
 
 peek(): O(1)
 
+
+LINKEDIN POST(COULDN'T LOGIN TO LINKEDIN COZ MY INTERNET PROVIDER BANNED LINKEDIN FOR SOME REASON)
+I’m thrilled to share my latest project demonstrating my knowledge of data structures by implementing Stack and Queue using Linked Lists! This was an incredible hands-on learning experience that deepened my understanding of linked lists and dynamic data management.
+
+Key features of this project:
+
+Developed a Stack with constant-time push and pop operations.
+
+Built an efficient Queue with enqueue and dequeue methods.
+
+Leveraged linked list concepts to handle dynamic memory allocation.
+
+Working on this project reinforced the importance of writing efficient, well-documented code. I faced challenges like managing node references effectively, but solving them enhanced my problem-solving skills and resilience.
+
+Check out my GitHub repository for the full implementation: [Insert GitHub Link]
+
+I’m excited to continue exploring advanced data structures and algorithms. Feedback and suggestions are always welcome!
+
